@@ -340,10 +340,9 @@ Função simularCorrida(velocidadeInicial, aceleracao, distancia, velocidadeMaxi
         Retorne tempo
     Senão:
         Retorne "Não foi possível completar a corrida dentro do tempo máximo."
-´´´
+```
 
-______
-
+-------
 **10)** Uma matriz é uma coleção bidimensional de elementos, organizados em linhas e colunas. A seguir, é fornecida a implementação da função SomaDeMatrizes(matrizA, matrizB), que calcula a soma de duas matrizes. Sua tarefa é implementar uma função semelhante, porém que realize a multiplicação de duas matrizes.
 
 RESPOSTA:
