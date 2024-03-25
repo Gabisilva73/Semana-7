@@ -309,7 +309,7 @@ Considere a fórumla de atualização velocidade:
 ```
     velocidade = velocidadeInicial + aceleracao*tempo
 ```
-RESPOSTA:
+
 ```javascript
 
 Função simularCorrida(velocidadeInicial, aceleracao, distancia, velocidadeMaxima, tempoMaximo):
@@ -345,7 +345,6 @@ Função simularCorrida(velocidadeInicial, aceleracao, distancia, velocidadeMaxi
 -------
 **10)** Uma matriz é uma coleção bidimensional de elementos, organizados em linhas e colunas. A seguir, é fornecida a implementação da função SomaDeMatrizes(matrizA, matrizB), que calcula a soma de duas matrizes. Sua tarefa é implementar uma função semelhante, porém que realize a multiplicação de duas matrizes.
 
-RESPOSTA:
 
 ```Javascript 
 Função MultiplicacaoDeMatrizes(matrizA, matrizB):
