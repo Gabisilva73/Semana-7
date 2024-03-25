@@ -298,7 +298,7 @@ Classe Retangulo herda FormaGeometrica:
 
 
 Circulo1 = novo Circulo(vermelho, 15)
-retangulo1 = novo Reantgulo(azul, 20)
+retangulo1 = novo Retangulo(azul, 20)
 ```
 
 ______
